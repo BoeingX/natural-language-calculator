@@ -1,0 +1,3 @@
+# Natural language calculator
+[![Build Status](https://travis-ci.org/BoeingX/natural-language-calculator.svg?branch=master)](https://travis-ci.org/BoeingX/natural-language-calculator)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
